@@ -1,7 +1,7 @@
 ## Technical Skills
 - **Tableau, Power BI** for data visualization.  
 - **Python, Excel** for Data analysis.  
-- **Java and Python** for ETL.  
+- **Python** for ETL.  
 - **SQL** for retrieving data from a database.  
 - **Powerapps & Power Automate** for application development.  
 
@@ -103,6 +103,5 @@ This Colab notebook focuses on web scraping and data visualization related to el
 
 
 ## Education
-- B.Sc, Computer Science & Engineering  | Islamic University of Technology (_May 2022_)			       		
-- H.S.C, Science			| Holy Cross College (_June 2017_)	 			        	
-- S.S.C, Science 			| Jhikargacha GOVT ML High School (_June 2015_)
+- BBA, Finance & Economics	   	  | Institute of Business Administration, University of Dhaka (_May 2022_)			       		
+- H.S.C, Science				| Pabna Cadet College (_June 2017_)	 			        	
